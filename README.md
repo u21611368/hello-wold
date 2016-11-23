@@ -6,3 +6,11 @@
 １．テスト
 １．テスト
 １．テスト
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
