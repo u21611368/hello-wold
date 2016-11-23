@@ -1,12 +1,3 @@
 #　マークダウンの実験
 ##　見出しを作る
-###　小見出しを作る
-##　実験結果を見る
-
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+###　結果を見る
